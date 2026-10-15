@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Sanguine (red chalk) on iron-gall umber
+accent = "#dc7a52"
+selection = "#3a3023"
+muted = "#8a7f69"
+
+# Thin flat ink line instead of a gilded frame
+hyprland_active_border = "rgba(dc7a52ee)"
+hyprland_inactive_border = "rgba(3a3023aa)"
+
+background = "#1a1611"
+dark_background = "#14110c"
+darker_background = "#0f0c09"
+lighter_background = "#27211a"
+
+# Chalk-on-slate parchment
+foreground = "#e8d9b5"
+dark_foreground = "#5c5446"
+light_foreground = "#b8a888"
+bright_foreground = "#f5ebd0"
+
+red = "#d9655a"
+yellow = "#d9b55e"
+orange = "#d98c42"
+green = "#7fb069"
+cyan = "#6fb3a8"
+blue = "#8aa5c4"
+magenta = "#b9708f"
+brown = "#b08556"
+
+bright_red = "#e5786c"
+bright_yellow = "#ecca78"
+bright_green = "#9cc98a"
+bright_cyan = "#92cbc0"
+bright_blue = "#a6bdd8"
+bright_magenta = "#d08aa8"
